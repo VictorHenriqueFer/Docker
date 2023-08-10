@@ -18,7 +18,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={logo} className="App-logo" alt="logoo" />
           <span><h2>Trybe Todo List</h2></span>
           <Switch>
             <TaskProvider>
